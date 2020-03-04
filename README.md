@@ -1,2 +1,2 @@
-# HaskellInterview-HackerRank
+# Haskell
 HackerRank Interview Question Answers in Haskell
